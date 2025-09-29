@@ -32,7 +32,7 @@ osi-series/
 │   │   └── Supportive evidence  # Images, documents, screenshots
 │   └── Investigation Two/
 │       ├── report.md
-│       └── evidence/
+│       └── Supportive evidence/
 ├── SCRIPTS/                 # OSINT tools and automation scripts
 │   ├── osint_scraper.py
 │   └── helper_functions.py
