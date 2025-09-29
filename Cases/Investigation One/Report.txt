@@ -2,7 +2,7 @@ OSINT Investigative Report
 
 Subject/Topic: Charile Kirk 
 Date 9/11/2025
-Classification Status: Public | Ongoing Archiving media phase | Prelim observation and research complete
+Classification Status: Public 
 
 Purpose of the Investigation: To observe the ongoing responses, spread, and impact since the public assasination of Conservative Right-Wing Activist and Founder of Turning Point USA Charile Kirk on September 10, 2025. 
 
@@ -18,7 +18,7 @@ truthsocial at 2:40 p.m. Mountain Time (MDT). Which in Eastern Standard Time (
 3. Investigation Scope
 Hashtag/Topic	#charliekirkshot #charilekirkdead Charile Kirk
 Platforms Monitored:	Twitter, Instagram, Bluesky, Reddit, Facebook
-Timeframe	09/10/2025 to Ongoing at this time
+Timeframe	09/10/2025 to 09/17/2025
 Tools Used	Twitter Advanced Search, Discord Mutipurpose Bot, Google Search Term Alert
 
 4.2 Temporal Analysis
@@ -136,6 +136,7 @@ Recommended Actions: Observation over human behavior is crucial in high moments,
 Monitor related hashtags: #charilekirkshot, #charliekirkdead, #charliekirk
 
 'Right and wrong are born in the heart, yet morality demands consistency. Outrage only when convenient is hypocrisy.' - Dexer
+
 
 
 
