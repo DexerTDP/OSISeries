@@ -28,14 +28,14 @@ OSISeries/
 ├── LICENSE                  # Licensing information (MIT + CC BY 4.0)
 ├── CASES/                   # Individual OSINT investigation cases
 │   ├── Investigation One/
-│   │   ├── OSINT Report - Charile Kirk Case.txt           # Full case report
-│   │   └── Supportive evidence  # Images, documents, screenshots
+│   │   ├── OSINT Report - Charlie Kirk Case.txt          
+│   │   └── Supportive evidence  
 │   └── Investigation Two/
 │       ├── OSINT Report - Tommy Robinson.txt
-│       └── Supportive evidence/
+│       └── Supportive evidence
 │   └── Investigation Three/
 │       ├── OSINT Report - WWE Footprint Scan.txt
-│       └── Supportive evidence/
+│       └── Supportive evidence
 ├── SCRIPTS/                 # OSINT tools and automation scripts
 │   ├── Tools Deployed.txt
 ```
