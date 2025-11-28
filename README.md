@@ -24,9 +24,9 @@ The purpose of archiving is to preserve the investigative work conducted during 
 ---
 ```
 OSISeries/
-├── README.md                # Project overview and archive notice
-├── LICENSE                  # Licensing information (MIT + CC BY 4.0)
-├── CASES/                   # Individual OSINT investigation cases
+├── README.md               
+├── LICENSE                  
+├── CASES/                   
 │   ├── Investigation One/
 │   │   ├── OSINT Report - Charlie Kirk Case.txt          
 │   │   └── Supportive evidence  
@@ -36,7 +36,7 @@ OSISeries/
 │   └── Investigation Three/
 │       ├── OSINT Report - WWE Footprint Scan.txt
 │       └── Supportive evidence
-├── SCRIPTS/                 # OSINT tools and automation scripts
+├── SCRIPTS/           
 │   ├── Tools Deployed.txt
 ```
 
