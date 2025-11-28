@@ -23,7 +23,7 @@ The purpose of archiving is to preserve the investigative work conducted during 
 
 ---
 ```
-osi-series/
+OSISeries/
 ├── README.md                # Project overview and archive notice
 ├── LICENSE                  # Licensing information (MIT + CC BY 4.0)
 ├── CASES/                   # Individual OSINT investigation cases
