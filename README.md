@@ -37,8 +37,7 @@ osi-series/
 │       ├── OSINT Report - WWE Footprint Scan.txt
 │       └── Supportive evidence/
 ├── SCRIPTS/                 # OSINT tools and automation scripts
-│   ├── cloakquest3r.py
-│   └── subscraper.py
+│   ├── Tools Deployed.txt
 ```
 
 ---
