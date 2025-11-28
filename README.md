@@ -31,7 +31,10 @@ osi-series/
 │   │   ├── report.txt           # Full case report
 │   │   └── Supportive evidence  # Images, documents, screenshots
 │   └── Investigation Two/
-│       ├── report.md
+│       ├── report.txt
+│       └── Supportive evidence/
+│   └── Investigation Three/
+│       ├── report.txt
 │       └── Supportive evidence/
 ├── SCRIPTS/                 # OSINT tools and automation scripts
 │   ├── cloakquest3r.py
