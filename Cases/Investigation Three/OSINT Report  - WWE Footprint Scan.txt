@@ -1,0 +1,94 @@
+
+Case 3 - WWE Exposure Scan
+
+1. OBJECTIVE:
+To identify publicly visible vulnerabilities, exploitation vectors, and narrative manipulation risks affecting WWE, its talent, and its digital ecosystem.
+
+2. SCOPE:
+- Public data only
+- No intrusion
+- Focus on influence risks, impersonation, social engineering vectors, and exploitable patterns in public infrastructure
+
+3. TOOLS USED:
+- Certificate search (crt.sh)
+- DNSDumpster
+- Shodan (surface-level banners only)
+- CloakQuest3r
+- icann whois lookup
+
+4. METHODOLOGIES:
+1. Identify official WWE domain (wwe.com)
+2. Run Whois lookup for registrar and age
+3. Check DNS records and visible subdomains
+4. Analyze tech stack via BuiltWith
+5. Enumerate official social profiles
+6. Gather public leadership and corporate info
+7. Analyze narrative vulnerability: how drama spreads in the fanbase.
+8. Identify talent-specific risks.
+9. Map potential social engineering pathways.
+
+5. FINDINGS:
+
+A. DOMAIN & WEB INFRASTRUCTURE
+- Domain: wwe.com
+- Registrar: MarkMonitor
+- Domain Age: 30 years old (05-13-1995)
+- Hosting: Multi-CDN (Akamai, Fastly)
+- Tech Stack: AEM elements, JS-heavy
+- Subdomains:
+  - shop.wwe.com
+  - corporate.wwe.com
+  - watch.wwe.com
+  - tickets.wwe.com
+  - help.wwe.com
+  - access.wwe.com
+  -	music.wwe.com
+  - sales.wwe.com
+  - business.wwe.com
+  - network.wwe.com
+  - global.wwe.com
+  - magazine.wwe.com
+  - sites.wwe.com
+
+B. SOCIAL MEDIA PRESENCE
+- Strong activity across Instagram, YouTube, Facebook, TikTok, X.
+- Branding: Consistent
+- Frequency: High-volume daily posting
+
+C. PUBLIC STAFF & EXPOSURE
+- Public execs: Nick Khan, Paul Levesque
+- Large PR/digital/media teams visible on LinkedIn
+- Public roster intentionally visible
+
+D. EXTERNAL MENTIONS & REVIEWS
+- Reviews tied to live events show mixed experiences
+- No major fraud indicators
+
+E. SECURITY NOTES
+- Strong DMARC/SPF/DKIM
+- No corporate email leaks in major breaches
+
+F. TALENT-SPECIFIC RISKS:
+- Public-facing talent become prime targets for:
+  - Deepfake content
+  - Fake DM screenshots and AI generated videos 
+  - Impersonation profiles -> scammers use private dm scam
+* Many wrestlers have inconsistent usernames across platforms.
+
+G. NARRATIVE MANIPULATION:
+Wrestling fans are emotionally reactive; misinformation spreads fast.
+High-risk patterns:
+- Fake injury reports
+- Fake contract “leaks”
+- Stolen backstage images repurposed with false claims
+- Bot amplification during scandals
+* If the goal is to create a new version of kayfabe where deception is implemented. Then a happy medium would be a long term sucess. 
+
+H. SOCIAL ENGINEERING ANGLES:
+- Public calendars for tour dates provide predictable schedules.
+- Public-facing staff (marketing, PR, interns) often have exposed LinkedIn emails.
+- Fake sponsorship requests can be used to target talent or staff.
+
+6. RISK ASSESSMENT:
+WWE maintains a mature digital footprint with strong infrastructure and multi-platform control. Its biggest vulnerabilities are talent, fans, overexposure of social media. 
+
