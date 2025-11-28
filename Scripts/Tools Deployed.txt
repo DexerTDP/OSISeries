@@ -1,30 +1,27 @@
 Scripts & Tools Used:
 ---------------------
 
-[01] Subscraper
-     Function: Scan the perimeter. Reveal hidden subdomains.
-     Access: https://github.com/m8r0wn/subscraper
-
-[02] CloakQuest3r
+[01] CloakQuest3r
      Function: Aggressive enumeration and surface-level reconnaissance
      Access: https://github.com/spyboy-productions/CloakQuest3r
 
-[03] SHODAN
+[02] SHODAN
      Function: Eyes on the open net. Exposed devices, forgotten ports.
      Access: https://www.shodan.io
 
-[04] crt.sh
+[03] crt.sh
      Function: Certificate archives. Past and present fingerprints.
      Access: https://crt.sh
 
-[05] DNS Dumpster
+[04] DNS Dumpster
      Function: Map the skeleton. DNS relationships, host clusters.
      Access: https://dnsdumpster.com
 
-[06] ICANN WHOIS
+[05] ICANN WHOIS
      Function: Domain identity, lineage, ownership traces.
      Access: https://lookup.icann.org
 
-[07] WhatIsMyIP
+[06] WhatIsMyIP
      Function: Position verification. Know where the signal originates.
      Access: https://www.whatismyip.com
+
