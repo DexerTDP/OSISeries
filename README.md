@@ -34,10 +34,8 @@ osi-series/
 │       ├── report.md
 │       └── Supportive evidence/
 ├── SCRIPTS/                 # OSINT tools and automation scripts
-│   ├── osint_scraper.py
-│   └── helper_functions.py
-├── DATA/                    # Raw and cleaned datasets
-│   └── references/          # PDFs, links, and research sources
+│   ├── cloakquest3r.py
+│   └── subscraper.py
 ```
 
 ---
