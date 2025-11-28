@@ -28,7 +28,7 @@ OSISeries/
 ├── LICENSE                  # Licensing information (MIT + CC BY 4.0)
 ├── CASES/                   # Individual OSINT investigation cases
 │   ├── Investigation One/
-│   │   ├── OSINT Report - Charile Kirk.txt           # Full case report
+│   │   ├── OSINT Report - Charile Kirk Case.txt           # Full case report
 │   │   └── Supportive evidence  # Images, documents, screenshots
 │   └── Investigation Two/
 │       ├── OSINT Report - Tommy Robinson.txt
