@@ -28,13 +28,13 @@ osi-series/
 ├── LICENSE                  # Licensing information (MIT + CC BY 4.0)
 ├── CASES/                   # Individual OSINT investigation cases
 │   ├── Investigation One/
-│   │   ├── report.txt           # Full case report
+│   │   ├── OSINT Report - Charile Kirk.txt           # Full case report
 │   │   └── Supportive evidence  # Images, documents, screenshots
 │   └── Investigation Two/
-│       ├── report.txt
+│       ├── OSINT Report - Tommy Robinson.txt
 │       └── Supportive evidence/
 │   └── Investigation Three/
-│       ├── report.txt
+│       ├── OSINT Report - WWE Footprint Scan.txt
 │       └── Supportive evidence/
 ├── SCRIPTS/                 # OSINT tools and automation scripts
 │   ├── cloakquest3r.py
