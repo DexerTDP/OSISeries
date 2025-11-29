@@ -25,3 +25,20 @@ Scripts & Tools Used:
      Function: Position verification. Know where the signal originates.
      Access: https://www.whatismyip.com
 
+[07] BuiltWith
+     Function: Tech-stack profiling. CMS fingerprints, shared frameworks, third-party integrations, and backend architecture.
+     Access: https://builtwith.com
+
+[08] Twitter Advanced Search
+     Function: Behavioral signal extraction. Timeline reconstruction, sentiment shifts, geotagged patterns.
+     Access: https://twitter.com/search-advanced
+
+[10] Google Alerts
+     Function: Real-time monitoring. Name resurfacing, topic activation, reputation signals, and sudden narrative changes.
+     Access: https://www.google.com/alerts
+
+[11] Multipurpose Discord Bot (Custom)
+     Function: Pulls posts from selected accounts into a controlled space for logging, pattern tracking.
+     Access: Internal Tool available in private server
+
+
