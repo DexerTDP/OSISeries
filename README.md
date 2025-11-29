@@ -27,13 +27,13 @@ OSISeries/
 ├── README.md               
 ├── LICENSE                  
 ├── CASES/                   
-│   ├── Investigation One/
+│   ├── Investigation One
 │   │   ├── OSINT Report - Charlie Kirk Case.txt          
 │   │   └── Supportive evidence  
-│   └── Investigation Two/
+│   └── Investigation Two
 │       ├── OSINT Report - Tommy Robinson.txt
 │       └── Supportive evidence
-│   └── Investigation Three/
+│   └── Investigation Three
 │       ├── OSINT Report - WWE Footprint Scan.txt
 │       └── Supportive evidence
 ├── SCRIPTS/           
